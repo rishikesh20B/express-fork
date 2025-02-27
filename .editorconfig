@@ -1,5 +1,6 @@
 # https://editorconfig.org
 root = true
+this kork
 
 [*]
 charset = utf-8
